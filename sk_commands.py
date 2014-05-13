@@ -18,7 +18,7 @@ oPass = oScene.ActivePass
 
 def XSILoadPlugin( in_reg ):
 	in_reg.Author = "sekow"
-	in_reg.Name = "sk_scriptCollection"
+	in_reg.Name = "sk_commands"
 	in_reg.Email = ""
 	in_reg.URL = ""
 	in_reg.Major = 1
